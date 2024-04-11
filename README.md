@@ -20,8 +20,4 @@ Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` pa
 
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato:
-
-[Seu nome] - [Seu email]
-
 Link do repo: [https://github.com/brldevx/fs-spotify-clone/]
