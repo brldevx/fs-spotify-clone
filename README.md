@@ -13,9 +13,12 @@ TailwindCSS, Supabase, Nextjs14, React, Stripe, Postgres
 
 Clone o projeto e execute 
 ```
-yarn dev ou npm run:dev
+yarn dev
 ```
-[yarn dev] ou [npm run:dev]
+ou
+```
+npm run:dev
+```
 
 ## Licença
 
