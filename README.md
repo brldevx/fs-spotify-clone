@@ -11,7 +11,11 @@ TailwindCSS, Supabase, Nextjs14, React, Stripe, Postgres
 
 ## Instalação
 
-Clone o projeto e execute [yarn dev] ou [npm run:dev]
+Clone o projeto e execute 
+```
+yarn dev ou npm run:dev
+```
+[yarn dev] ou [npm run:dev]
 
 ## Licença
 
